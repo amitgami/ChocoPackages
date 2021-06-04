@@ -27,9 +27,9 @@ choco install  Putty.install
 choco install  Kitty
 choco install  Openssh
 choco install  Winscp
-choco install  Wireshark
+#choco install  Wireshark
 choco install  Nxlog
-choco install  Ngrok
+#choco install  Ngrok
 choco install  Curl
 choco install  Wget
 choco install  Iperf3
@@ -60,7 +60,7 @@ choco install  Microsoft-windows-terminal
 choco install  Dropbox
 choco install  Boxcryptor
 choco install  Paint.net
-choco install  Itunes
+#choco install  Itunes
 choco install  Windirstat
 choco install  Doublecmd
 choco install  Winmerge
