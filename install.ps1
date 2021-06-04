@@ -15,7 +15,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 choco feature enable -n allowGlobalConfirmation
 
 #Development tools
-choco install  Anaconda3
+#choco install  Anaconda3
 choco install  Postman
 choco install  Nodejs
 choco install  Git.install
